@@ -1,0 +1,12 @@
+--- 
+name: psychlab_faqs
+navbar: 
+  left: 
+    - 
+      href: index.html
+      text: Home
+  title: ""
+output: 
+  html_document: 
+    highlight: tango
+    theme: cosmo
