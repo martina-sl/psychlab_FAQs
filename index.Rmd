@@ -1,0 +1,323 @@
+---
+title: "SASS Psychology Lab FAQs"
+output:
+  html_document:
+    highlight: tango
+    theme: cosmo
+    toc: yes
+    toc_depth: 5
+    toc_float: yes
+  pdf_document:
+    toc: yes
+    toc_depth: '5'
+--- 
+![](/Users/martina/Documents/RWD/small_projects/r_docs/lab_title.jpg)  
+</br> 
+  
+## General Questions  
+<br/>
+
+##### **How can the psychology technicians help me with my research project? **
+
+Come speak to us about: 
+
+- Your research design  
+- Data analysis in SPSS (please discuss this with your supervisor before seeing us)  
+- Online surveys - missed the workshop or need to design something advanced?   
+- Recruiting participants  
+- Qualitative data analysis using NVivo  
+- Transcribing interview and focus group data - we can save you lots of time!  
+- Programming experiments - we can program one for you, or show you how to do it yourself.  
+- Research equipment training - we have something for everyone, please just ask!  
+</br>
+
+##### **My UniCard doesn’t let me into the lab - what should I do?**  
+
+If you’re a Level 6 student, a postgraduate/PhD student or a member of the psychology staff, you might need to re-activate your card. you can do this at the entrance of the Falmer Library - there’s a card reader on the door on the left, just before you enter the building. Hold you card against the card reader until the light flashes green. Your card should the let you into the lab. If you still cannot get in, let us know and we’ll see what we can do.  
+</br>
+
+##### **I’m a Level 4 or Level 5 student - can you help me with statistics?**  
+
+As a Level 4 or 5 psychology student, you should get in touch with your seminar tutor or the module coordinator for your research methods module if you feel like you’re falling behind with statistics and SPSS. We can however help you with installing SPSS on your computer, answer any technical questions you may have, or point you to some resources. [Let us know](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/) if you would find this helpful.   
+</br>  
+  
+##### **I’m a dissertation student - can you help me with statistics?**
+We’re happy to advise you on your data analysis. Please note that we can’t tell you which test to use - you should consult your supervisor if you have doubts. But we can help you carry out your analysis in SPSS and make sense of the output.  
+</br>  
+
+##### **How can I contact the psychology technicians?**
+You can [drop us an email](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/) with questions or booking requests, or stop by for a chat - our office is in the back of the Psychology Lab on the ground floor of the Watson Building, first double door on the left as you enter from the campus. 
+</br>
+</br>
+</br>
+
+## Equipment & software
+</br>
+
+##### **What equipment is available and how can I book it?**
+The lab has a range of equipment available to support qualitative and quantitative research methods. See [this page](https://blogs.brighton.ac.uk/sasspsychlab/view-book-lab-resources/) for details.   
+  
+You can book equipment by [contacting the psychology technicians](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/). Please try and book equipment at least 4 working days in advance. Please also say whether you would like to pick them up from the lab, or whether you would like them set up somewhere else. We’ll confirm that everything is available and can be collected/delivered on the dates required. If you wish to cancel a booking please let us know as soon as you do. Equipment will be loaned on a first come first served basis and is subject to availability.   
+  
+If you would like any help deciding on the best resource for your purposes, or would like to propose other resources that would be useful, we would be happy to discuss this with you in more detail.  
+</br>
+
+##### **What equipment do you have to support qualitative research?**
+The lab can offer audio-visual recording equipment such as voice recorders and video cameras, crafts and creative materials, robot docks, iPads, transcription pedals, qualitative data analysis software NVivo and more. See [this document](https://blogs.brighton.ac.uk/sasspsychlab/files/2019/01/Qualitative-research-v7-1nbrpav.pdf) for more information.  
+</br>  
+
+##### **Can you help me with transcription?**
+We transcription pedals and software which can greatly speed up your transcription. The computers in the Psychology Lab will be set up with this equipment between March and May - you’re welcome to come in and use it when you need it. You can also book this equipment to use on your laptop - please note that we do not lend the transcription kit home during high demand periods when the dissertation students are working on their research projects. You can only use it in the lab during these times.   
+</br>  
+
+##### **How can I get NVivo on my computer?**
+You can buy a memory stick with the software either from vending machine in the computer pool room in the Library or from the [Computer Store](https://staff.brighton.ac.uk/is/computing/Pages/Computer store/Computer_store.aspx) - it costs £6 (2018/2019) and the license lasts until August. If you’re not sure how to install it, pop in to the lab with your laptop and we can help you with that.  
+</br>  
+
+##### **What equipment do you have to support quantitative research?**
+The lab has a number of computers you can use for experiments, eye-trackers, psychophysiology monitoring equipment, drunk goggles, virtual reality headset and more. See [this document](https://blogs.brighton.ac.uk/sasspsychlab/files/2019/01/Quantitative-research-v7-1quyaxf.pdf) for more information.   
+</br>  
+
+##### **How can I get SPSS on my computer?**
+You can buy a memory stick with the software either from the vending machine in the computer pool room in Library or from the [Computer Store](https://staff.brighton.ac.uk/is/computing/Pages/Computer store/Computer_store.aspx)  - it costs £6 (2018/2019) and the license lasts until August. If you’re not sure how to install it, pop in to the lab with your laptop and we can help you with that.  
+</br>
+
+##### **I want to program my own computer experiment - is this possible?** 
+All of the psychology booths have [SuperLab](blogs.brighton.ac.uk/sasspsychlab/2015/04/07/do-you-want-to-present-a-psychology-experiment-on-a-computer/) for computer presented experiments. The psychology technicians can demonstrate it and help you build your own experiment.  Response pads enable participants to respond by pressing keys or speaking aloud. We can offer E-Prime. The [PsyCog CD](https://he.palgrave.com/page/detail/psycog-robert-a-wyttenbach/?k=9780878939503) has 18 perception and cognition experiments, ready for you to generate quantitative data with less effort.   
+</br>
+ 
+##### **I want to use a piece of equipment but I’ve never used it before - can you help?**
+Don’t feel discouraged if you’re not confident using a piece of equipment - we can train you up and give you the skills necessary to carry out your research independently. 
+</br>
+</br>
+</br>
+
+## Lab spaces
+</br>
+
+##### **What spaces are available?**
+The Psychology Lab has 6 experimental soundproofed booths, the Creative Methods Lab, the Applied Cognition Lab and the teaching area. See this page for more details.   
+</br>
+
+##### **How can I book spaces?**
+Booths 1-4 are managed by SONA for dissertation students and SONA must be used to book them.   
+
+Booths 5 & 6, Creative Methods Lab, Applied Cognition Lab and the teaching area can be booked by [e-mailing Joe and Martina](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/) with details. Please give as much notice as possible when making bookings, and remember to cancel the booking when you find out you no longer need the space.  
+    
+Please note that the Creative Methods lab has been funded by the Transforming Sexuality and Gender Research Cluster, so  Cluster bookings take highest priority. Staff associated with Psychology can book the lab if it is not required by the Cluster. Priority is given to the cluster, then psychology. If a booking is made by a lower priority need it may be cancelled if a higher priority need arises.  
+</br>
+
+##### **Can I use the computers in the teaching area to do some work?**
+You’re more than welcome to use the lab computers whenever you need to. If you’re a Level 6 student, your UniCard should let you in any time the Watson Building is open. If you’re a Level 4 or Level 5 student, the door to the lab is open between 11 am and 3 pm. If you need to get into the lab outside of those times, just knock on the door and someone will let you in. 
+  
+</br>
+</br>
+</br>  
+
+## Conducting research  
+  
+
+### Online  
+   
+   
+##### **How can I create an online survey?**
+You will first need to attend a workshop to get set up with a Qualtrics account. Qualtrics is a platform you’ll be using to build your survey. You will receive an announcement about the workshops on StudentCentral and on your e-mail. 
+If you already have an account, have a look at [these guides](blogs.brighton.ac.uk/sasspsychlab/2018/08/09/guidance-for-online-recruitment/) that take you through survey building step by step.   
+</br>
+
+##### **How do I log in to Qualtrics?**
+You can log in here: https://brightonpsychology.eu.qualtrics.com . You can also access Qualtrics through the SS603 module area on StudentCentral by clicking on the "Recruiting Online" tab in the menu on the left.  
+</br>
+
+##### **Do I need to create the survey from scratch?**
+Do not create your survey from scratch. Use a template which contains questions which must be included in every survey. [This document](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/9/1193/files/2019/01/1.2-Getting-started-with-your-online-survey-2-1rjm94m.pdf) shows you how to create a survey using a template.  
+</br>
+  
+##### **Where can I find questionnaires/measures for mu study?**
+[A list of psychometric measures](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/) has been compiled on the [lab’s website](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/), which also contains links to more free databases.   
+  
+If you can’t find what you’re looking for, have a look through the key articles of your study - authors will reference the source of the measures they are using, which may help you find the questionnaire online. Always make sure the the measure is free and not copyrighted - when in doubt, speak to your supervisor or the psychology technicians.  
+</br>
+  
+##### **I want to measure X. Can I create my own questionnaire to measure this variable?**
+Do not create your own questionnaire. Existing questionnaires are reliable because they went through the process of validation and peer-reviewing. It is beyond the scope of an undergraduate dissertation to create and validate a reliable measure.   
+  
+If you’ve looked through the [list of questionnaires on the lab’s website](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/) and you’re still struggling to find a suitable measure, try searching for questionnaires measuring similar variables which you could potentially tweak. For example a questionnaire measuring ‘drug use’ could be adjusted to ask about ‘cannabis use’, or a questionnaire focusing on ‘Facebook use’ may be tweaked to ask about ‘Instagram use’.   
+  
+*Always check with your supervisor before tweaking a validated questionnaire.*  
+</br>
+
+##### **How do I make my study go live? **
+  
+- Make sure your supervisor is content for you to start recruiting  
+- Go to "Projects" and select your survey. Click on "Publish" in the top right part of the screen. 
+- Click on "Select a Person… " and select your supervisor from the dropdown list. 
+- Write a message if needed and click on "Request Approval"  
+- Your approval request will be e-mailed to your supervisor, who will review the study and approve it if everything seems okay. Please allow at least 2 - 3 days for this. 
+- You will receive an email when your study gets approved. 
+- [Email Joe and Martina](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/) when your study is live so they can add it to the participant pool website to help you recruit Level 4s and 5s.
+   
+*Only send the approval request once your study is 100% finalised. Editing the survey after it’s been published can result in corrupted responses and loss of data. If you absolutely need to make a change, agree it with your supervisor and then speak with Joe and Martina.*
+</br>
+
+##### **How can I advertise my study?**
+- **Sending your survey to others** - You can send the link to your study by opening your survey in the edit mode and going to the "Distributions" tab on the top left, and selecting "Anonymous link" in the menu on the left. Copy the link displayed on your screen and share it on Social Media or via email. Anyone can participate, but remember to only recruit in online spaces that you specified in your ethics application.   
+   
+- **Loaner iPads** - the psychology lab can lend you iPads which you can use to survey your participants face to face wherever you have a wifi signal, dependent on what was said in your ethics form of course.  
+  
+- **Doing nothing** - all Level 4 and Level 5 psychology students are required to complete two online studies so you’ll get a number of participants from this pool. All you need to do is let Joe and Martina know that your study is live, and they’ll make the link to your study available on the recruitment website. However, it advised to also actively recruit people rather than just rely on this.        
+</br>
+
+##### **Can I advertise my study on social media?**
+You can, but you must specify your intention to do this in your ethics application.   
+</br>
+
+##### **How can I award research points for participation?**
+Research points for participation in online studies are awarded automatically after the dissertation submission deadline - you don’t need to do anything.  
+</br>
+
+##### **How do I import data from Qualtrics to SPSS?**
+See [this guide](https://cpb-eu-w2.wpmucdn.com/blogs.brighton.ac.uk/dist/9/1193/files/2019/01/1.2-Importing-survey-data-to-SPSS-101gl30.pdf) to learn how to get your data from Qualtrics into SPSS.  
+</br>
+</br>
+
+### Face-to-face   
+
+
+   
+##### **How do I log in to SONA?**
+You can log in here: https://psych-brighton.sona-systems.com . You can also access SONA through the SS603 module area on StudentCentral by clicking on the "Recruiting Face-to-Face" tab in the menu on the left.  
+</br>
+
+##### **How do I put my study up?**  
+  
+- Log in to SONA as a Researcher.  
+- Select ‘Add New Study’ > ‘Standard Study’  
+- Click Continue  
+  
+Follow [this guide](https://blogs.brighton.ac.uk/sasspsychlab/files/2019/01/SONA-cheat-sheet-21zwoqk.pdf) to complete the study information page.   
+</br>
+
+##### **How many research points can I award?**
+You can award participants 1 SONA credit for every 15 minutes participation, and bonus 5 credits for face-to-face studies.   
+</br>
+
+##### **Where can I find questionnaires/measures for mu study?**
+[A list of psychometric measures](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/) has been compiled on the [lab’s website](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/), which also contains links to more free databases.   
+  
+If you can’t find what you’re looking for, have a look through the key articles of your study - authors will reference the source of the measures they are using, which may help you find the questionnaire online. Always make sure the the measure is free and not copyrighted - when in doubt, speak to your supervisor or the psychology technicians.  
+</br>
+  
+##### **I want to measure X. Can I create my own questionnaire to measure this variable?**
+Do not create your own questionnaire. Existing questionnaires are reliable because they went through the process of validation and peer-reviewing. It is beyond the scope of an undergraduate dissertation to create and validate a reliable measure.   
+  
+If you’ve looked through the [list of questionnaires on the lab’s website](https://blogs.brighton.ac.uk/sasspsychlab/2016/10/09/free-measures/) and you’re still struggling to find a suitable measure, try searching for questionnaires measuring similar variables which you could potentially tweak. For example a questionnaire measuring ‘drug use’ could be adjusted to ask about ‘cannabis use’, or a questionnaire focusing on ‘Facebook use’ may be tweaked to ask about ‘Instagram use’.  
+<br>
+
+##### **How do people sign up for studies?** 
+Participants will see your study in the list of available studies on SONA where they’ll have the option to read the information sheet and sign up.   
+  
+**IMPORTANT:** Participants will only be able to see your study if the study is *Active*, *Approved* and has available *timeslots*.   
+</br>
+ 
+##### **How do I put up a timeslot?**  
+  
+- On SONA, go to My Studies and select ‘All’ in the grey bar  
+- Find your study. Under the ‘View’ column, click on ‘Timeslots’  
+- Click on ‘+ Add a Timeslot’  
+- Fill in Date, Start Time, and the Number of Participants (default is 1, only change this if you’re doing a focus group)  
+- Select a location from the dropdown list - you can book Booths 1 - 4 through SONA. [Contact the psychology technicians](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe/) if you’d like to book other [lab spaces](https://blogs.brighton.ac.uk/sasspsychlab/virtual-tour/). If you booked a space through the technicians, type the location in the box below the dropdown list (e.g. "Creative Methods Lab")  
+- Select ‘Add This Timeslot’   
+</br>
+
+##### **Can non-psychology students and members of the public participate?**
+Any member of the public and non-psychology student can obtain an account by clicking “Request Account”. *Psychology students must not use the “Request Account” button on the SONA login page to create an account - this is only for members of the public or non-psychology students. Doing so would leave you open to accusations of academic misconduct.*  
+</br>
+
+##### **How can I advertise my study?**
+You can send your study by getting the link from the “Study Information” page and emailing/Tweeting/Facebooking etc.  
+</br>
+
+##### **Can I get in touch with the people who signed up for my study?**   
+</br>
+
+##### **Participant didn’t show up for my study - what should I do?**
+Navigate to the list of your timeslots on SONA. Timeslots that occurred in the past will have the option to ‘Grant Research Points’, ‘Excused No-Show’ or ‘Unexcused No-Show’.   
+  
+If they let you via e-mail that they cannot make it to the study, select ‘Excused No-Show’. If they didn’t let you know, it might be worth dropping them an e-mail first to see if they would like to re-schedule. If they don’t get back to you, you can select the ‘Unexcused No-Show’ option. This will take away their research points and prevent them from signing up for more studies, so use it as a last resort.  
+</br>
+</br>
+</br>  
+
+  
+## Participating in research   
+
+   
+###Online   
+    
+
+##### **How can I participate in online studies?**
+Go to [this page](https://brightonpsychology.eu.qualtrics.com/jfe/form/SV_0voMim3w7OMxd8p) to see the list of available online studies. You can also access Qualtrics through the SS448 or SS511 module area on StudentCentral by clicking on the "Participating Online" tab in the menu on the left.  
+</br>
+
+##### **How many online studies should I complete each year?**
+Level 4 and Level 5 psychology students must complete 2 online studies and earn at least 10 participation credits from taking part in face to face studies per year before they can use Qualtrics or SONA for their dissertation in Level 6.  
+</br>
+
+##### **How many research points do I get for participating?**
+Dissertation students award 1 research point for every online survey participants complete.  
+</br>
+
+##### **Why aren’t the research points from online studies showing up on my SONA account?**
+Research points for participating in online studies are awarded towards the end of each academic year before the annual BUDS conference.   
+</br>
+
+##### **Why do I need to participate in studies?**
+All psychology students must participate in research studies during when they’re in Level 4 and Level 5. This gives students really valuable experience of participating in studies, and enables dissertation students reach ambitious recruitment targets.  
+  
+If you have a really good reason why you cannot participate in studies, there is an option to write an essay about research ethics. Speak to your Research Methods module coordinator for more details.  
+</br>
+
+##### **Can members of the public participate?**
+Anybody can participate in studies, not just students. Members of public and non-psychology students can participate on [this page](https://brightonpsychology.eu.qualtrics.com/jfe/form/SV_0voMim3w7OMxd8p).   
+</br>
+</br>
+
+### Face-to-face
+
+   
+##### **How do I participate in face-to-face studies?**
+You can log in here: https://psych-brighton.sona-systems.com . You can also access SONA through the SS448 or SS511 module area on StudentCentral by clicking on the "Participating Face-to-Face" tab in the menu on the left. 
+</br>
+
+##### **How many face-to-face studies should I complete each year?**
+You must earn at least 10 SONA credits per year for participation. You receive 1 SONA credit for every 15 minutes of participation + additional 5 credits for face-to-face studies. 2 of these credits will need to come from [participating in online studies](blogs.brighton.ac.uk/sasspsychlab/2018/08/08/recruiting-online/).  
+</br>
+
+##### **How many research points do I get for participating?**
+You receive 1 research point for every 15 minutes of participation + additional 5 credits for face-to-face studies.  
+</br>
+  
+##### **Why do I need to participate in studies?**
+All psychology students must participate in research studies during when they’re in Level 4 and Level 5. This gives students really valuable experience of participating in studies, and enables dissertation students reach ambitious recruitment targets.  
+  
+If you have a really good reason why you cannot participate in studies, there is an option to write an essay about research ethics. Speak to your Research Methods module coordinator for more details.  
+</br>
+
+##### **Can members of the public participate?**
+Anybody can participate in studies, not just students. If you are a Brighton psychology student you must use your participant account. Members of public and non-psychology students can participate by clicking the link to SONA at the bottom of this page, clicking “Request Account”, and filling in the information asked for – you’ll need to give yourself a username, anything will do! You’ll get an email with your account details and be able to click a link to start participating.  
+</br>
+  
+##### **I’ve signed up for a study - where do I meet the researcher?**
+Unless otherwise specified on the SONA page for the study, you should meet the researcher in the Psychology Lab which is located on the ground floor of the Watson Building, first double door on the left as you enter from the campus. The door is open between 11 am and 3 pm. If your appointment is outside of those times, knock on the door and someone will let you in.   
+</br>
+
+##### **I can’t make it to a study I signed-up for - what should I do?**
+You should cancel the appointment on SONA as soon as you learn that you won’t be able to make it. There is no penalty for cancelling on time. Note that you can only cancel up to 24 hours before the appointment.   
+  
+If it’s too late to cancel, you should e-mail the student as soon as possible, even if it’s on the day of the appointment, so they can fill up your timeslot with someone else if they have the opportunity. You can find their email on the main study page or on the information sheet attached to the study on SONA.   
+</br>
+
+##### **I’ve lost research points because I didn’t show up for a study and my account is blocked - what should I do?**  
+
+[Contact the psychology technicians](https://blogs.brighton.ac.uk/sasspsychlab/contact-joe). 
