@@ -4,7 +4,7 @@ navbar:
   left: 
     - 
       href: index.html
-      text: Home
+      text: "Home"
   title: ""
 output: 
   html_document: 
