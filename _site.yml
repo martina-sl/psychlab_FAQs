@@ -5,8 +5,4 @@ navbar:
     - 
       href: index.html
       text: Home
-  title: ""
-output: 
-  html_document: 
-    highlight: tango
-    theme: cosmo
+  title: "SASS Psychology Lab FAQs"
